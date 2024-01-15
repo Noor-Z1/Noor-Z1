@@ -76,14 +76,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Noor-Z1/count.svg?"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Noor-Z1/count.svg?"  />
-</div>
-
-###
