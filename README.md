@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Noor.
-I'm a senior Computer Engineering student from METU</h2>
+<h2 align="left">Hi 👋! My name is Noor. </h2>
+<h3> I'm a senior Computer Engineering student from METU </h3>
 
 ###
 
