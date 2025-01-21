@@ -1,6 +1,5 @@
 <h2 align="left">Hi! My name is Noor  👋 </h2>
-<h3> I'm a Computer Engineering graduate from ODTÜ. Currently working @ CyprusCodes</h3>
-
+<h3> I'm a Computer Engineering graduate from ODTÜ. 
 ###
 
 <div align="center">
