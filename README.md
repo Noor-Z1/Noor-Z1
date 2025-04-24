@@ -1,6 +1,6 @@
 <h2 align="left">Hi! My name is Noor  👋 </h2>
 <h3> I'm a Computer Engineering graduate from ODTÜ. 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Noor-Z1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
