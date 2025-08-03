@@ -3,8 +3,9 @@
 <h3 align="left">Computer Engineering Graduate from ODTÜ (METU)</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&multiline=true&width=435&lines=AI+Engineer+%7C+PhD+Candidate+%7C+Problem+Solver;Building+Smart+Systems+with+ML+%26+NLP;Always+curious%2C+always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&multiline=true&width=700&lines=AI+Engineer+%7C+PhD+Candidate+%7C+Problem+Solver;Building+Smart+Systems+with+ML+%26+NLP;Always+curious%2C+always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
 
 ---
 
