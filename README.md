@@ -1,14 +1,22 @@
 <h2 align="left">Hi there, I'm Noor 👋</h2>
 
-<h3 align="left">Computer Engineering Graduate | ODTÜ (METU)</h3>
+<h3 align="left">Computer Engineering Graduate from ODTÜ (METU)</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&multiline=true&width=435&lines=AI+Engineer+%7C+Tech+Explorer+%7C+Problem+Solver;Always+building+cool+stuff+%F0%9F%9A%80;Lifelong+learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&multiline=true&width=435&lines=AI+Engineer+%7C+PhD+Researcher+%7C+Problem+Solver;Building+Smart+Systems+with+ML+%26+NLP;Always+curious%2C+always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Research & Projects
+
+- **CMND Meeting Assistant** – Intelligent assistant with transcription, speaker diarization & RAG-powered queries.
+- **AI Chatbots for Sales & Analytics** – Real-time assistants for CRM dashboards & business insight generation.
+- **NLP Toolkits** – Pipelines for extracting insights from messy business data using LLMs and statistical modeling.
+
+---
+
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -22,15 +30,7 @@
 
 ---
 
-### 🚀 Projects I'm Proud Of
-
-- **🧠 CMND Meeting Assistant** – Intelligent meeting tool with transcription, speaker diarization & RAG-powered insights.
-- **🤖 AI-Powered Chatbot** – Real-time sales & analytics assistant integrated into CRM dashboards.
-- **📊 Sales Analysis Toolkit** – NLP pipeline to derive insights from business data.
-
----
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Noor-Z1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/noor-ul-zain-305144145/" target="_blank">
@@ -52,18 +52,6 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
----
-
-### 🐍 GitHub Snake Game
-
-<img src="https://raw.githubusercontent.com/Noor-Z1/Noor-Z1/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Noor-Z1/count.svg?" alt="Profile Views" />
 </div>
-
-
