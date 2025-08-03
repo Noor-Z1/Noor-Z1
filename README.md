@@ -61,6 +61,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Noor-Z1/count.svg?" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noor-Z1&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
