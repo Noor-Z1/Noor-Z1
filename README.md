@@ -36,7 +36,8 @@
   <img src="https://streak-stats.demolab.com?user=Noor-Z1&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Noor-Z1&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor-Z1&show_icons=true&hide_title=true&hide_rank=true&theme=dracula" height="150" />
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noor-Z1&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
