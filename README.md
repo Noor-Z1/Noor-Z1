@@ -32,9 +32,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Noor-Z1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noor-Z1&locale=en&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Noor-Z1&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor-Z1&show_icons=true&theme=dracula&hide_border=false" height="150" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noor-Z1&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
+
 
 ---
 
