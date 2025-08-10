@@ -10,13 +10,6 @@
 
 ---
 
-### 🧠 Research & Projects
-
-- **CMND Meeting Assistant** – Intelligent assistant with transcription, speaker diarization & RAG-powered queries.
-- **AI Chatbots for Sales & Analytics** – Real-time assistants for CRM dashboards & business insight generation.
-
----
-
 ### 💻 Tech Stack
 
 <p align="left">
